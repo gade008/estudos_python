@@ -1,0 +1,6 @@
+nome = input('Digite o nome do cliente: ')
+diavencimento = int(input('Digite o dia de vencimento: '))
+mesvencimento = input('Digite o mês de vencimento: ')
+valor = input('Digite o valor da fatura: ')
+print(f'Olá, {nome}')
+print(f'A sua fatura com vencimento em {diavencimento} de {mesvencimento.capitalize()} no valor de R$ {valor} está fechada.')

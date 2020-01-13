@@ -1,0 +1,11 @@
+from math import pow, sqrt, ceil
+ca = float(input('Digite o cateto adjacente do triângulo:'))
+co = float(input('Digite o cateto oposto:'))
+h = sqrt((pow(ca, 2) + pow(co, 2)))
+print("       ^")
+print("       |    \ ")
+print('       |      \ ')
+print('       |       \ ')
+print('       |         \ Hipotenusa: {}'.format(h))
+print('CO:{} |____________\ '.format(co))
+print('             CA:{}'.format(ca))
