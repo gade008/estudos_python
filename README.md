@@ -1,56 +1,55 @@
 # estudos_python
 Exercicios feito em python
 
-- Curso em vídeo:
-
-Professor Guanabara, do mundo 1 até o mundo 3.
 ***********************************
+- Curso em vídeo: Professor Guanabara, do mundo 1 até o mundo 3.
 Conteúdo: Mundo 1 - 10 horas
+
 Primeiros passos com o Python
 Duração (horas): 2:01:08
----------------------------------
+
 Tratando dados e fazendo contas
 Duração (horas): 2:43:48 
----------------------------------
+
 Usando módulos do Python
 Duração (horas): 2:51:49 
----------------------------------
+
 Condições em Python (if..else)
 Duração (horas): 1:42:38 
----------------------------------
+
 Trabalhando com cores
 Duração (horas): 30:43 
 ***********************************
 
 Conteúdo: Mundo 2 - 9 horas
----------------------------------
+
 Condições em Python (if..elif)
 2:27:47
----------------------------------
+
 Repetições em Python (for)
 2:20:32
----------------------------------
+
 Repetições em Python (while)
 4:18:46
 ***********************************
 
 Conteúdo: Mundo 3
----------------------------------
+
 Tuplas em Python
 1:56:26
----------------------------------
+
 Listas em Python
 3:51:42
----------------------------------
+
 Dicionários em Python
 2:12:01
----------------------------------
+
 Funções em Python
 3:34:46
----------------------------------
+
 Modularização em Python
 1:36:29
----------------------------------
+
 Tratamento de Erros em Python
 1:01:00 
 
