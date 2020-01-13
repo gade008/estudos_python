@@ -1,7 +1,10 @@
 # estudos_python
-Exercicios feito em python
+
+Neste repositório está o backup dos arquivos no qual realizei o estudo em python.
+Todo conteúdo é um esboço de práticas e exercícios realizados para aprendizado na linguagem.
 
 ***********************************
+**(Pasta Cursoemvideo)**
 - Curso em vídeo: Professor Guanabara, do mundo 1 até o mundo 3.
 Conteúdo: Mundo 1 - 10 horas
 
@@ -54,7 +57,9 @@ Tratamento de Erros em Python
 1:01:00 
 
 ****************************************************************************************************************************************************************************
+**(Pasta Pythonuusp)**
 Introdução à Ciência da Computação com Python - Coursera em conjunto com a USP
+
 Nível	Básico
 Compromisso	1 hora semanal de vídeos + 2 a 3 horas semanais de trabalhos práticos de exercícios de programação.
 Idioma	
