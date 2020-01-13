@@ -58,7 +58,8 @@ Tratamento de Erros em Python
 
 ****************************************************************************************************************************************************************************
 **(Pasta Pythonuusp)**
-Introdução à Ciência da Computação com Python - Coursera em conjunto com a USP
+
+- Introdução à Ciência da Computação com Python - Coursera em conjunto com a USP
 
 Nível	Básico
 Compromisso	1 hora semanal de vídeos + 2 a 3 horas semanais de trabalhos práticos de exercícios de programação.
