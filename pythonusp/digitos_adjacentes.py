@@ -25,3 +25,5 @@ lista.reverse()
 if Q > 1:
     print(f'sim' if igual
           else 'não')
+else:
+    print('não')
